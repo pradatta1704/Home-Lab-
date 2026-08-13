@@ -37,7 +37,7 @@ The environment is designed to provide:
 | RAM | 24 GB DDR4 |
 | OS Storage | 500 GB NVMe |
 | Data Storage | 1 TB HDD |
-| Network | 1 Gbps Ethernet |
+| Network | 300 Mbps Ethernet |
 
 ### Storage Layout
 
@@ -469,7 +469,7 @@ The complete architecture diagram is available at:
 
 Cloud / DevOps / Infrastructure enthusiast focused on building practical infrastructure and automation projects.
 
-🌐 Portfolio: `https://pradatta.tech`
+🌐 Portfolio: `https://portfolio.pradatta.tech`
 
 ---
 
