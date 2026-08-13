@@ -2,7 +2,7 @@
 
 > A self-hosted homelab for learning, development, container orchestration, automation, media serving, monitoring, networking, and infrastructure experimentation.
 
-![Homelab Infrastructure Diagram](docs/homelab-infrastructure.png)
+![Homelab Infrastructure Diagram](/Infra-Diagram.png)
 
 ## 🏠 Overview
 
