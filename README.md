@@ -469,7 +469,7 @@ The complete architecture diagram is available at:
 
 Cloud / DevOps / Infrastructure enthusiast focused on building practical infrastructure and automation projects.
 
-🌐 Portfolio: `https://portfolio.pradatta.tech`
+🌐 Portfolio: `https://portfolio.pradatta.in`
 
 ---
 
